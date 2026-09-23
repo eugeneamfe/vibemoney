@@ -10,6 +10,7 @@
 
 - [Продукт и критерии приёмки](docs/product.md)
 - [Инструкции агенту](AGENTS.md)
+- [Правила работы с Git](.agents/skills/git-workflow/SKILL.md)
 
 ## Установка, запуск и проверки
 
