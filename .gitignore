@@ -1,0 +1,5 @@
+/workspace/
+.DS_Store
+.env
+.env.*
+!.env.example
